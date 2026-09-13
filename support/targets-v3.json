@@ -12,7 +12,7 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901BXXSNGZD7/cve-2026-43499",
-        "size": 1843360
+        "size": 121600
       },
       "exploitRoot": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901BXXSNGZD7/cve-2026-43499-root",
@@ -20,7 +20,7 @@
       },
       "exploitHelper": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901BXXSNGZD7/cve-exp32",
-        "size": 1732896
+        "size": 11132
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
@@ -116,7 +116,7 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901USQSAGZH3/cve-2026-43499",
-        "size": 1838056
+        "size": 116344
       },
       "exploitRoot": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901USQSAGZH3/cve-2026-43499-root",
@@ -124,7 +124,7 @@
       },
       "exploitHelper": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S901USQSAGZH3/cve-exp32",
-        "size": 1732968
+        "size": 11256
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
@@ -168,7 +168,7 @@
       ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S908BXXSMGZB2/cve-2026-43499",
-        "size": 1843408
+        "size": 121616
       },
       "exploitRoot": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S908BXXSMGZB2/cve-2026-43499-root",
@@ -176,7 +176,7 @@
       },
       "exploitHelper": {
         "url": "https://raw.githubusercontent.com/Daubfy/IonStack-S22U/main/artifacts/S908BXXSMGZB2/cve-exp32",
-        "size": 1732928
+        "size": 11132
       },
       "kernelsu": {
         "url": "https://github.com/sarabpal-dev/KernelSU-Next/releases/download/v3.3.0-android12-5.10/kernelsu-android12-5.10.ko",
